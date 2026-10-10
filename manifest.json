@@ -1,8 +1,8 @@
 {
   "name": "konu dükkân",
   "short_name": "konu dükkân",
-  "start_url": "https://konudukkan.com/",
-  "scope": "https://konudukkan.com/",
+  "start_url": "https://www.konudukkan.com/",
+  "scope": "https://www.konudukkan.com/",
   "display": "standalone",
   "background_color": "#f0eee6",
   "theme_color": "#f0eee6",
